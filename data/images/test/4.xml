@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4.jpg</filename>
+	<path>/home/deepakgoyal/Desktop/Pushkar/Tensor_Flow_RND/object_detection_demo/data/images/4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goggles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>140</ymin>
+			<xmax>602</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>
